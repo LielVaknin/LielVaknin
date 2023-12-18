@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Liel Vaknin</h1>
 
-🎓 B.Sc. Computer Science and Mathematics Graduate <br>
+🎓 B.Sc. Computer Science and Mathematics <br>
 
 📫 How to reach me: lielva500@gmail.com <br>
 
